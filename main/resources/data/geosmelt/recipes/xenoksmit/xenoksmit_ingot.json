@@ -1,0 +1,14 @@
+﻿{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#"
+    ],
+    "key": {
+        "#": {
+            "item": "geosmelt:xenoksmit_block"
+        }
+    },
+    "result": {
+        "item": "geosmelt:xenoksmit_ingot",
+        "count": 9    }
+}

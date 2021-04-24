@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_top_rh",
+  "textures": {
+    "bottom": "geosmelt:blocks/tazurite_door_bottom",
+    "top": "geosmelt:blocks/tazurite_door_top"
+  }
+}

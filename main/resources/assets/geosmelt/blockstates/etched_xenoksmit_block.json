@@ -1,0 +1,19 @@
+{
+  "variants": {
+	"facing=north": {
+	  "model": "geosmelt:block/etched_xenoksmit_block"
+	},
+	"facing=south": {
+	  "model": "geosmelt:block/etched_xenoksmit_block",
+	  "y": 180
+	},
+	"facing=west": {
+	  "model": "geosmelt:block/etched_xenoksmit_block",
+	  "y": 270
+	},
+	"facing=east": {
+	  "model": "geosmelt:block/etched_xenoksmit_block",
+	  "y": 90
+	}
+  }
+}

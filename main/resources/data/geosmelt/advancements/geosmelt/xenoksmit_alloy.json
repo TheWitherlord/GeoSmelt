@@ -1,0 +1,32 @@
+{
+    "display": {
+        "title": {
+            "text": "Xenoksmit Alloy",
+            "color": "dark_purple"
+        },
+        "description": {
+            "text": "Obtain a Xenoksmit alloy by combining Duskrok, Dawnrok, Mithril and Starcilium",
+            "color": "light_purple"
+        },
+        "icon": {
+            "item": "geosmelt:xenoksmit_ingot"
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+ "parent": "geosmelt:geosmelt/dawnrok_get",
+ "criteria": {
+        "c1": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "geosmelt:xenoksmit_ingot"
+                    }
+                ]
+            }
+        }
+    }
+}

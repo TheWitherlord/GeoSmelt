@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "geosmelt:starcilium_ore",
+    "geosmelt:tazurite_ore",
+    "geosmelt:mithril_ore",
+    "geosmelt:terranite",
+     "geosmelt:jaspillite"
+  ]
+}

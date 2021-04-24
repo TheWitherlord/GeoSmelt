@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "geosmelt:blocks/engraved_mithril"
+    }
+}

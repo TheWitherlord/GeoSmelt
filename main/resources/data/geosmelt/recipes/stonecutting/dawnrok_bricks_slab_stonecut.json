@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "geosmelt:dawnrok_bricks"
+    },
+    "result": "geosmelt:dawnrok_bricks_slab",
+    "count": 2
+}

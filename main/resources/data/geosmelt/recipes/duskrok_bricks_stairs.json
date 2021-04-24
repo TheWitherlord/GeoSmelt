@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#  ",
+        "## ",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "geosmelt:duskrok_bricks"
+        }
+    },
+    "result": {
+        "item": "geosmelt:duskrok_bricks_stairs",
+        "count": 4
+    }
+}

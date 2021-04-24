@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+        "item": "minecraft:netherite_scrap"
+    },
+    "addition": {
+        "item": "geosmelt:infinity_shard"
+    },
+    "result": {
+        "item": "geosmelt:infinity_plate"
+    }
+}

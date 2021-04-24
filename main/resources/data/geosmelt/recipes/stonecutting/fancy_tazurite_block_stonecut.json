@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "geosmelt:smooth_tazurite_block"
+    },
+    "result": "geosmelt:fancy_tazurite_block",
+    "count": 1
+}

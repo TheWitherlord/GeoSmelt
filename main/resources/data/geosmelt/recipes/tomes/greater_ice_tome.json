@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#g",
+        "/#"
+    ],
+    "key": {
+        "#": {
+            "item": "geosmelt:infinity_plate"
+        },
+        "g": {
+            "item": "minecraft:blue_ice"
+        },
+        "/": {
+            "item": "geosmelt:lesser_ice_tome"
+        }
+    },
+    "result": {
+		"item": "geosmelt:greater_ice_tome",
+		"count": 1
+	}
+}

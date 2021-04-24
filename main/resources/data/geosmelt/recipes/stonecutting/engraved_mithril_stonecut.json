@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "geosmelt:mithril_block"
+    },
+    "result": "geosmelt:engraved_mithril",
+    "count": 1
+}

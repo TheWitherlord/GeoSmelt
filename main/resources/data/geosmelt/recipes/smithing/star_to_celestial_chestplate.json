@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+        "item": "geosmelt:starcilium_chestplate"
+    },
+    "addition": {
+        "item": "geosmelt:infinity_plate"
+    },
+    "result": {
+        "item": "geosmelt:celestial_chestplate"
+    }
+}

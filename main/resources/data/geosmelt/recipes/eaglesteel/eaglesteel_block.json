@@ -1,0 +1,17 @@
+﻿{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "###",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "geosmelt:eaglesteel_ingot"
+        }
+    },
+    "result": {
+        "item": "geosmelt:eaglesteel_block",
+        "count": 1
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+        "item": "geosmelt:terranite_block"
+    },
+    "addition": {
+        "item": "minecraft:glowstone"
+    },
+    "result": {
+        "item": "geosmelt:glistening_terranite"
+    }
+}

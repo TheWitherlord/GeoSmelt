@@ -1,0 +1,8 @@
+{
+    "parent": "minecraft:block/slab",
+    "textures": {
+        "bottom": "geosmelt:blocks/smooth_dawnrok",
+        "top": "geosmelt:blocks/smooth_dawnrok",
+        "side": "geosmelt:blocks/smooth_dawnrok"
+    }
+}

@@ -1,0 +1,9 @@
+{
+	"type": "minecraft:smelting",
+	"ingredient": {
+		"item": "geosmelt:starcilium_geode"
+	},
+	"result": "geosmelt:starcilium_ingot",
+	"experience": 1.8,
+	"cookingtime": 500
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "geosmelt:blocks/duskrok_pillar_top",
+    "side": "geosmelt:blocks/duskrok_pillar"
+  }
+}

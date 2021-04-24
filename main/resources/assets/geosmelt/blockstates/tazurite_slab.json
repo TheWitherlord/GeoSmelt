@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "type=bottom": {
+            "model": "geosmelt:block/tazurite_slab"
+        },
+        "type=double": {
+            "model": "geosmelt:block/tazurite_block"
+        },
+        "type=top": {
+            "model": "geosmelt:block/tazurite_slab_top"
+        }
+    }
+}

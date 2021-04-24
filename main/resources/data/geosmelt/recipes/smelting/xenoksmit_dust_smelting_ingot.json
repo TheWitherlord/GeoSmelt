@@ -1,0 +1,9 @@
+{
+	"type": "minecraft:smelting",
+	"ingredient": {
+		"item": "geosmelt:xenoksmit_dust"
+	},
+	"result": "geosmelt:xenoksmit_ingot",
+	"experience": 2.2,
+	"cookingtime": 400
+}

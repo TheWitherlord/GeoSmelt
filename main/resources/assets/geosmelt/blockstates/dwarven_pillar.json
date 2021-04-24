@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y":  { "model": "geosmelt:block/dwarven_pillar" },
+        "axis=z":   { "model": "geosmelt:block/dwarven_pillar", "x": 90 },
+        "axis=x":   { "model": "geosmelt:block/dwarven_pillar", "x": 90, "y": 90 }
+    }
+}

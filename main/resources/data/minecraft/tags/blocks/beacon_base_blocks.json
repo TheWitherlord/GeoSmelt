@@ -1,0 +1,14 @@
+{
+	"replace": false,
+	"values": [
+		"geosmelt:starcilium_block",
+                "geosmelt:etched_starcilium_block", 
+		"geosmelt:xenoksmit_block", 
+                "geosmelt:etched_xenoksmit_block", 
+                "geosmelt:mithril_block",
+                "geosmelt:funny_mithril",
+                "geosmelt:engraved_mithril",
+                "geosmelt:jasper_block",  
+                "geosmelt:eaglesteel_block"          
+	]
+}

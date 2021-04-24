@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [   
+    "geosmelt:starcilium_block",
+    "geosmelt:xenoksmit_block",
+    "geosmelt:tazurite_block",
+    "geosmelt:mithril_block",
+    "geosmelt:terranite_block",
+    "geosmelt:eaglesteel_block"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "#i#",
+        " # "
+    ],
+    "key": {
+        "#": {
+            "item": "geosmelt:starcilium_nugget"
+        },
+        "i": {
+            "item": "geosmelt:starcilium_ingot"
+        }
+    },
+    "result": {
+        "item": "geosmelt:starcilium_gear",
+        "count": 1
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#g",
+        "/#"
+    ],
+    "key": {
+        "#": {
+            "item": "geosmelt:infinity_plate"
+        },
+        "g": {
+            "item": "minecraft:nether_star"
+        },
+        "/": {
+            "item": "geosmelt:lesser_wither_tome"
+        }
+    },
+    "result": {
+		"item": "geosmelt:greater_wither_tome",
+		"count": 1
+	}
+}

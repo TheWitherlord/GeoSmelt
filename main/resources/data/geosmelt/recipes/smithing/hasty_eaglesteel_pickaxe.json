@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+        "item": "geosmelt:eaglesteel_pickaxe"
+    },
+    "addition": {
+        "item": "geosmelt:jasper"
+    },
+    "result": {
+        "item": "geosmelt:hasty_eaglesteel_pickaxe"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#P#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "geosmelt:eaglesteel_nugget"
+        },
+        "P": {
+            "item": "geosmelt:dwarven_pillar"
+        }
+    },
+    "result": {
+        "item": "geosmelt:gilded_dwarven_pillar",
+        "count": 1
+    }
+}

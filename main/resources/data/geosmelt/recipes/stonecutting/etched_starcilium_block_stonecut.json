@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "geosmelt:starcilium_block"
+    },
+    "result": "geosmelt:etched_starcilium_block",
+    "count": 1
+}

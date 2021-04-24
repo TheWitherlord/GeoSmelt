@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "type=bottom": {
+            "model": "geosmelt:block/dawnrok_bricks_slab"
+        },
+        "type=double": {
+            "model": "geosmelt:block/dawnrok_bricks"
+        },
+        "type=top": {
+            "model": "geosmelt:block/dawnrok_bricks_slab_top"
+        }
+    }
+}

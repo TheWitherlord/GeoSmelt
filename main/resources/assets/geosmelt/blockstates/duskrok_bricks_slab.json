@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "type=bottom": {
+            "model": "geosmelt:block/duskrok_bricks_slab"
+        },
+        "type=double": {
+            "model": "geosmelt:block/duskrok_bricks"
+        },
+        "type=top": {
+            "model": "geosmelt:block/duskrok_bricks_slab_top"
+        }
+    }
+}

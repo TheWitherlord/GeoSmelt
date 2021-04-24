@@ -1,0 +1,9 @@
+{
+	"type": "minecraft:blasting",
+	"ingredient": {
+		"item": "geosmelt:mithril_ore"
+	},
+	"result": "geosmelt:mithril_ingot",
+	"experience": 1.6,
+	"cookingtime": 100
+}

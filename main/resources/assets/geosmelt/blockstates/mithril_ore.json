@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y":  { "model": "geosmelt:block/mithril_ore" },
+        "axis=z":   { "model": "geosmelt:block/mithril_ore", "x": 90 },
+        "axis=x":   { "model": "geosmelt:block/mithril_ore", "x": 90, "y": 90 }
+    }
+}

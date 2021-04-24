@@ -1,0 +1,9 @@
+{
+	"type": "minecraft:blasting",
+	"ingredient": {
+		"item": "geosmelt:tazurite_ore"
+	},
+	"result": "minecraft:light_blue_stained_glass",
+	"experience": 1.3,
+	"cookingtime": 100
+}

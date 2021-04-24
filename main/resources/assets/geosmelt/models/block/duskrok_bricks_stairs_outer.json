@@ -1,0 +1,15 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "geosmelt:blocks/duskrok_bricks",
+    "top": "geosmelt:blocks/duskrok_bricks",
+    "side": "geosmelt:blocks/duskrok_bricks"
+  }
+}
+
+
+
+
+
+
+

@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "geosmelt:smooth_duskrok"
+    },
+    "result": "geosmelt:duskrok_bricks",
+    "count": 1
+}

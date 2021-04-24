@@ -1,0 +1,9 @@
+{
+	"type": "minecraft:blasting",
+	"ingredient": {
+		"item": "geosmelt:xenoksmit_dust"
+	},
+	"result": "geosmelt:xenoksmit_ingot",
+	"experience": 2.4,
+	"cookingtime": 200
+}

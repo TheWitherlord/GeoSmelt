@@ -1,0 +1,26 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		" C ",
+		"IEI",
+		" G "
+	],
+	"key": {
+		"I": {
+			"item": "geosmelt:infinity_plate"
+		},
+		"E": {
+			"item": "geosmelt:crystal_ice"
+		},
+		"C": {
+			"item": "geosmelt:hollow_blade"
+		},
+		"G": {
+			"item": "geosmelt:galaxius"
+		}
+	},
+	"result": {
+		"item": "geosmelt:tri_sword",
+		"count": 1
+	}
+}

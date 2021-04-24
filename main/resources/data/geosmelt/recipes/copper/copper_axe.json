@@ -1,0 +1,19 @@
+{
+  "result": {
+    "item": "geosmelt:copper_axe"
+  },
+  "pattern": [
+    "XX ",
+    "XY ",
+    " Y "
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "tag": "forge:ingots/copper"
+    },
+    "Y": {
+      "item": "minecraft:stick"
+    }
+  }
+}

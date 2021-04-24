@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "i"
+    ],
+    "key": {
+        "i": {
+            "item": "geosmelt:mithril_ingot"
+        }
+    },
+    "result": {
+        "item": "geosmelt:mithril_nugget",
+        "count": 9
+    }
+}

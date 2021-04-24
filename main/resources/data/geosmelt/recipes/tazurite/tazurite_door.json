@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "##",
+        "##",
+        "##"
+    ],
+    "key": {
+        "#": {
+            "item": "geosmelt:tazurite"
+        }
+    },
+    "result": {
+        "item": "geosmelt:tazurite_door",
+        "count": 1
+    }
+}

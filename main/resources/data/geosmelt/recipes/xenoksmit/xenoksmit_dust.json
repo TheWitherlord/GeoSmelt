@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "geosmelt:starcilium_dust"
+		},
+		{
+			"item": "geosmelt:dawnrok"
+		},
+		{
+			"item": "geosmelt:mithril_dust"
+		},
+		{
+			"item": "geosmelt:rough_duskrok"
+		}
+	],
+	"result": {
+		"item": "geosmelt:xenoksmit_dust",
+		"count": 1
+	}
+}

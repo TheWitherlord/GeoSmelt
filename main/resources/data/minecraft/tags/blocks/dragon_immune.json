@@ -1,0 +1,30 @@
+{
+	"replace": false,
+	"values": [
+		"geosmelt:starcilium_ore",
+		"geosmelt:starcilium_block",
+		"geosmelt:xenoksmit_block",
+		"geosmelt:duskrok",
+		"geosmelt:smooth_duskrok",
+		"geosmelt:smooth_duskrok_stairs",
+		"geosmelt:smooth_duskrok_slab",
+		"geosmelt:duskrok_bricks",
+		"geosmelt:duskrok_bricks_stairs",
+		"geosmelt:duskrok_bricks_slab",
+		"geosmelt:dawnrok",
+		"geosmelt:smooth_dawnrok",
+		"geosmelt:smooth_dawnrok_stairs",
+		"geosmelt:smooth_dawnrok_slab",
+		"geosmelt:dawnrok_bricks",
+		"geosmelt:dawnrok_bricks_stairs",
+		"geosmelt:dawnrok_bricks_slab",
+		"geosmelt:dragonscorch",
+		"geosmelt:smooth_dragonscorch",
+		"geosmelt:dragonscorch_bricks",
+		"geosmelt:chiseled_dragonscorch",
+		"geosmelt:smooth_dragonscorch_stairs",
+		"geosmelt:dragonscorch_bricks_stairs",
+		"geosmelt:smooth_dragonscorch_slab",
+		"geosmelt:dragonscorch_bricks_slab"
+	]
+}

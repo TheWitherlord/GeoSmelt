@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "geosmelt:dragonscorch"
+    },
+    "result": "geosmelt:smooth_dragonscorch",
+    "count": 1
+}

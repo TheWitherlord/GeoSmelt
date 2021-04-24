@@ -1,0 +1,16 @@
+﻿{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "# #",
+        "# #"
+    ],
+    "key": {
+        "#": {
+            "item": "geosmelt:xenoksmit_ingot"
+        }
+    },
+    "result": {
+        "item": "geosmelt:xenoksmit_boots",
+        "count": 1
+    }
+}

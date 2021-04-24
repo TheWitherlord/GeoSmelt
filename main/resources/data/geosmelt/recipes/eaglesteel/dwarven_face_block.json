@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#_#",
+        "#P#"
+    ],
+    "key": {
+        "#": {
+            "item": "geosmelt:eaglesteel_nugget"
+        },
+        "_": {
+            "item": "minecraft:polished_andesite_slab"
+        },
+        "P": {
+            "item": "minecraft:polished_andesite"
+        }
+    },
+    "result": {
+        "item": "geosmelt:dwarven_face_block",
+        "count": 1
+    }
+}

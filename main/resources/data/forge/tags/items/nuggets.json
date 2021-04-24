@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "geosmelt:eaglesteel_nugget",
+    "geosmelt:mithril_nugget",
+    "geosmelt:starcilium_nugget",
+    "geosmelt:xenoksmit_nugget"
+  ]
+}

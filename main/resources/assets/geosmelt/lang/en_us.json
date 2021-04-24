@@ -1,0 +1,266 @@
+{
+
+//creativetab/group
+
+"itemGroup.geosmeltgroup":"GeoSmelt",
+
+//entities
+"entity.geosmelt.small_dragon_fireball": "Small Dragon Fireball",
+"entity.geosmelt.holy_orb": "Holy Orb",
+"entity.geosmelt.greater_wither_skull": "Greater Wither Skull",
+"entity.geosmelt.ice_ball": "Iceball",
+"entity.geosmelt.big_snow_ball": "Big Snowball",
+"entity.geosmelt.starcilium_golem": "Starcilium Automaton",
+"entity.geosmelt.armored_skeleton": "Armored Skeleton",
+"entity.geosmelt.overgrown": "Overgrown",
+"entity.geosmelt.skeleton_scrapper": "Skeleton Scrapper",
+"entity.geosmelt.skeleton_sentinel": "Skeleton Sentinel",
+"entity.geosmelt.jungle_tarantula": "Jungle Tarantula",
+
+
+
+
+
+//spawn eggs
+"item.geosmelt.armored_skeleton_spawn_egg": "Armored Skeleton Spawn Egg",
+"item.geosmelt.overgrown_spawn_egg": "Overgrown Spawn Egg",
+"item.geosmelt.skeleton_scrapper_spawn_egg": "Skeleton Scrapper Spawn Egg",
+"item.geosmelt.skeleton_sentinel_spawn_egg": "Skeleton Sentinel Spawn Egg",
+"item.geosmelt.skeleton_elite_spawn_egg": "Skeleton Elite Spawn Egg",
+"item.geosmelt.jungle_tarantula_spawn_egg": "Jungle Tarantula Spawn Egg",
+
+
+//items
+
+
+"item.geosmelt.tarantula_pelt": "Jungle Tarantula Pelt",
+
+"item.geosmelt.dragon_charge": "Draconic Charge",
+
+
+"item.geosmelt.jasper": "Jasper",
+"item.geosmelt.tazurite": "Tazurite",
+"item.geosmelt.terranite_chunk": "Terranite Chunk",
+"item.geosmelt.starcilium_ingot": "Starcilium Ingot",
+"item.geosmelt.xenoksmit_ingot": "Xenoksmit Ingot",
+"item.geosmelt.eaglesteel_ingot": "Eaglesteel Ingot",
+"item.geosmelt.mithril_ingot": "Mithril Ingot",
+"item.geosmelt.copper_scrap": "Copper Scrap",
+"item.geosmelt.eaglesteel_nugget": "Eaglesteel Nugget",
+"item.geosmelt.starcilium_nugget": "Starcilium Nugget",
+"item.geosmelt.xenoksmit_nugget": "Xenoksmit Nugget",
+"item.geosmelt.mithril_nugget": "Mithril Nugget",
+"item.geosmelt.starcilium_dust": "Starcilium Dust",
+"item.geosmelt.xenoksmit_dust": "Xenoksmit Dust",
+"item.geosmelt.mithril_dust": "Mithril Dust",
+"item.geosmelt.starcilium_rod": "Starcilium Rod",
+"item.geosmelt.mithril_rod": "Mithril Rod",
+"item.geosmelt.starcilium_gear": "Starcilium Gear",
+"item.geosmelt.starcilium_geode": "Starcilium Geode",
+"item.geosmelt.starcilium_apple": "Starcilium Gilded Apple",
+"item.geosmelt.infinity_shard": "Infinity Shard",
+"item.geosmelt.infinity_plate": "Infinity Metal",
+
+
+//Staves
+"item.geosmelt.lesser_fire_tome": "Tome of Lesser Fireball",
+"item.geosmelt.lesser_wither_tome": "Tome of Lesser Withering Skull",
+"item.geosmelt.lesser_ice_tome":"Tome of Lesser Iceball",
+"item.geosmelt.greater_fire_tome": "Tome of Greater Fireball",
+"item.geosmelt.greater_wither_tome": "Tome of Greater Withering Skull",
+"item.geosmelt.greater_ice_tome": "Tome of Greater Iceball",
+"item.geosmelt.draconic_staff": "Draconic Staff",
+"item.geosmelt.holy_staff": "Paladin's Holy Staff",
+
+
+//Swords
+"item.geosmelt.hollow_blade": "The Hollow Blade",
+"item.geosmelt.galaxius": "Galaxius",
+"item.geosmelt.tri_sword": "Tri Galaxius Ultisword",
+"item.geosmelt.banana_blade": "Banana Blade",
+"item.geosmelt.earth_glaive": "Earthen Glaive",
+"item.geosmelt.aquaslash": "Aquaslash",
+"item.geosmelt.crystal_ice": "Crystal Ice",
+
+
+//Hammers
+"item.geosmelt.dark_morningstar": "Dark Morning",
+"item.geosmelt.gummer": "The Gummer",
+"item.geosmelt.xenoksmit_stormbreaker": "Xenoksmit Stormbreaker",
+
+//Axes
+"item.geosmelt.virion_axe": "The Virion Axe",
+
+
+//tooltip/lore
+    "item.geosmelt.lesser_fire_tome.tooltip": "Casts a Blaze's fireball. Uses: Fire Charges",
+    "item.geosmelt.lesser_wither_tome.tooltip": "Casts a Wither skull. Uses: Fire Charges",
+    "item.geosmelt.lesser_ice_tome.tooltip": "Casts icey bursts of energy. Uses: Fire Charges",
+    "item.geosmelt.greater_fire_tome.tooltip": "Casts a Ghast's Fireball. Uses: Draconic Charges",
+    "item.geosmelt.greater_wither_tome.tooltip": "Casts a ominous skull. Uses: Draconic Charges",
+    "item.geosmelt.greater_ice_tome.tooltip": "Casts a giant snowball that freezes the area. Uses: Draconic Charges",
+    "item.geosmelt.holy_staff.tooltip": "Heals allies around you. Uses: Draconic Charges, +5 Attack Damage against Undead.",
+    "item.geosmelt.draconic_staff.tooltip": "Casts an aura of harming, hurtful to everyone. Uses: Draconic Charges",
+    "item.geosmelt.hollow_blade.tooltip": "A strong sword worthy of a champion.",
+  "item.geosmelt.galaxius.tooltip": "A legendary sword made of pure cosmic energy, Extra Damage to Illagers.",
+    "item.geosmelt.tri_sword.tooltip": "Affects the enemy with ice and fire.",
+    "item.geosmelt.banana_blade.tooltip": "Not actually a banana, steals life from enemies.",
+    "item.geosmelt.earth_glaive.tooltip": "Weakens enemies.",
+    "item.geosmelt.aquaslash.tooltip": "Has a strong knockback.",
+    "item.geosmelt.crystal_ice.tooltip": "An elegant sword made of crystalized ice.",
+    "item.geosmelt.dark_morningstar.tooltip": "Dazes enemies, acts as a multi tool.",
+    "item.geosmelt.gummer.tooltip": "A true hero's multi tool.",
+    "item.geosmelt.virion_axe.tooltip": "Poisons enemies.",
+    "item.geosmelt.xenoksmit_stormbreaker.tooltip": "Durable multi purpose tool.",
+    "item.geosmelt.infinity_shard.tooltip": "Ripped from an Ancient Evil.",
+    "item.geosmelt.infinity_plate.tooltip": "Infused with celestial energy. Used to repair Legendary Gear",
+      "item.geosmelt.skeleton_elite_spawn_item.tooltip": "Summons a Skeleton capable of firing powerful fiery arrows",
+  
+
+
+//tools
+
+
+"item.geosmelt.eaglesteel_sword": "Eaglesteel Sword",
+"item.geosmelt.eaglesteel_axe": "Eaglesteel Axe",
+"item.geosmelt.eaglesteel_pickaxe": "Eaglesteel Pickaxe",
+"item.geosmelt.eaglesteel_shovel": "Eaglesteel Shovel",
+"item.geosmelt.eaglesteel_hoe": "Eaglesteel Hoe",
+
+"item.geosmelt.hasty_eaglesteel_sword": "Hasty Eaglesteel Sword",
+"item.geosmelt.hasty_eaglesteel_axe": "Hasty Eaglesteel Axe",
+"item.geosmelt.hasty_eaglesteel_pickaxe": "Hasty Eaglesteel Pickaxe",
+"item.geosmelt.hasty_eaglesteel_shovel": "Hasty Eaglesteel Shovel",
+"item.geosmelt.hasty_eaglesteel_hoe": "Hasty Eaglesteel Hoe",
+
+
+
+"item.geosmelt.copper_sword": "Copper Sword",
+"item.geosmelt.copper_axe": "Copper Axe",
+"item.geosmelt.copper_pickaxe": "Copper Pickaxe",
+"item.geosmelt.copper_shovel": "Copper Shovel",
+"item.geosmelt.copper_hoe": "Copper Hoe",
+
+
+
+"item.geosmelt.starcilium_sword": "Starcilium Sword",
+"item.geosmelt.starcilium_axe": "Starcilium Axe",
+"item.geosmelt.starcilium_pickaxe": "Starcilium Pickaxe",
+"item.geosmelt.starcilium_shovel": "Starcilium Shovel",
+"item.geosmelt.starcilium_hoe": "Starcilium Hoe",
+
+
+
+//armor
+"item.geosmelt.celestial_helmet": "Celestial Helmet",
+"item.geosmelt.celestial_chestplate": "Celestial Breastplate",
+"item.geosmelt.celestial_leggings": "Celestial Greaves",
+"item.geosmelt.celestial_boots": "Celestial Treads",
+
+"item.geosmelt.xenoksmit_helmet": "Xenoksmit Helmet",
+"item.geosmelt.xenoksmit_chestplate": "Xenoksmit Chestplate",
+"item.geosmelt.xenoksmit_leggings": "Xenoksmit Leggings",
+"item.geosmelt.xenoksmit_boots": "Xenoksmit Boots",
+
+"item.geosmelt.starcilium_helmet": "Starcilium Helmet",
+"item.geosmelt.starcilium_chestplate": "Starcilium Chestplate",
+"item.geosmelt.starcilium_leggings": "Starcilium Leggings",
+"item.geosmelt.starcilium_boots": "Starcilium Boots",
+
+//blocks
+
+
+"block.geosmelt.dwarven_pillar": "Dwarven Pillar",
+"block.geosmelt.gilded_dwarven_pillar": "Gilded Dwarven Pillar",
+"block.geosmelt.dwarven_tile": "Dwarven Tile",
+"block.geosmelt.dwarven_face_block": "Dwarven Face",
+"block.geosmelt.eaglesteel_block": "Block of Eaglesteel",
+
+
+"block.geosmelt.jaspillite": "Jaspillite",
+"block.geosmelt.jasper_block": "Block of Jasper",
+
+
+"block.geosmelt.tazurite_ore": "Sparkling Sand",
+"block.geosmelt.tazurite_block": "Block of Tazurite",
+"block.geosmelt.tazurite_pillar_cap": "Tazurite Pillar Cap",
+"block.geosmelt.tazurite_pillar": "Tazurite Pillar",
+"block.geosmelt.smooth_tazurite_block": "Smooth Tazurite Block",
+"block.geosmelt.fancy_tazurite_block": "Tazurite Fish Head",
+"block.geosmelt.tazurite_tiles": "Tazurite Tiles",
+"block.geosmelt.chiseled_tazurite_bricks": "Chiseled Tazurite Bricks",
+"block.geosmelt.tazurite_door": "Tazurite Door",
+"block.geosmelt.tazurite_bricks": "Tazurite Bricks",
+"block.geosmelt.tazurite_stairs": "Tazurite Stairs",
+"block.geosmelt.tazurite_brick_stairs": "Tazurite Brick Stairs",
+"block.geosmelt.smooth_tazurite_stairs": "Smooth Tazurite Stairs",
+"block.geosmelt.tazurite_slab": "Tazurite Slab",
+"block.geosmelt.tazurite_bricks_slab": "Tazurite Brick Slab",
+"block.geosmelt.smooth_tazurite_slab": "Smooth Tazurite Slab",
+
+
+
+
+
+"block.geosmelt.mithril_ore": "Mithril Ore",
+"block.geosmelt.mithril_block": "Block of Mithril",
+"block.geosmelt.funny_mithril": "Cubistic Block of Mithril",
+"block.geosmelt.engraved_mithril": "Engraved Block of Mithril",
+
+
+"block.geosmelt.starcilium_ore": "Starcilium Node",
+"block.geosmelt.starcilium_block": "Block of Starcilium",
+"block.geosmelt.starcilium_face_block": "Starcilium Golem Head",
+"block.geosmelt.etched_starcilium_block": "Etched Block of Starcilium",
+
+"block.geosmelt.xenoksmit_block": "Block of Xenoksmit",
+"block.geosmelt.xenoksmit_fancy_block": "Fancy Xenoksmit Block",
+"block.geosmelt.etched_xenoksmit_block": "Etched Block of Xenoksmit",
+
+
+"block.geosmelt.terranite": "Terranite Ore",
+"block.geosmelt.terranite_block": "Block of Terranite",
+"block.geosmelt.glistening_terranite": "Glistening Block of Terranite",
+"block.geosmelt.terranite_bricks": "Terranite Bricks",
+"block.geosmelt.terranite_tiles": "Terranite Tiles",
+"block.geosmelt.terranite_tiles_slab": "Tiled Terranite Slab",
+"block.geosmelt.terranite_tiles_stairs": "Tiled Terranite Stairs",
+
+"block.geosmelt.terranite_bricks_stairs": "Terranite Brick Stairs",
+"block.geosmelt.terranite_bricks_slab": "Terranite Brick Slab",
+
+
+"block.geosmelt.dragonscorch": "Dragonscorch",
+"block.geosmelt.dragonscorch_bricks": "Dragonscorch Bricks",
+"block.geosmelt.smooth_dragonscorch": "Smooth Dragonscorch",
+"block.geosmelt.chiseled_dragonscorch": "Watchful Dragonscorch",
+"block.geosmelt.dragonscorch_bricks_stairs": "Dragonscorch Brick Stairs",
+"block.geosmelt.dragonscorch_bricks_slab": "Dragonscorch Brick Slab",
+"block.geosmelt.smooth_dragonscorch_stairs": "Smooth Dragonscorch Stairs",
+"block.geosmelt.smooth_dragonscorch_slab": "Smooth Dragonscorch Slab",
+
+"block.geosmelt.rough_duskrok": "Rough Duskrok",
+"block.geosmelt.duskrok": "Duskrok",
+"block.geosmelt.chiseled_duskrok": "Ominous Duskrok",
+"block.geosmelt.duskrok_pillar": "Duskrok Pillar",
+"block.geosmelt.duskrok_bricks": "Duskrok Bricks",
+"block.geosmelt.duskrok_bricks_stairs": "Duskrok Brick Stairs",
+"block.geosmelt.smooth_duskrok": "Smooth Duskrok",
+"block.geosmelt.smooth_duskrok_stairs": "Smooth Duskrok Stairs",
+"block.geosmelt.smooth_duskrok_slab": "Smooth Duskrok Slab",
+"block.geosmelt.duskrok_bricks_slab": "Duskrok Brick Slab",
+
+
+"block.geosmelt.dawnrok": "Dawnrok",
+"block.geosmelt.chiseled_dawnrok": "Hallowed Dawnrok",
+"block.geosmelt.dawnrok_pillar": "Dawnrok Pillar",
+"block.geosmelt.dawnrok_bricks": "Dawnrok Bricks",
+"block.geosmelt.dawnrok_bricks_stairs": "Dawnrok Brick Stairs",
+"block.geosmelt.smooth_dawnrok": "Smooth Dawnrok",
+"block.geosmelt.smooth_dawnrok_stairs": "Smooth Dawnrok Stairs",
+"block.geosmelt.smooth_dawnrok_slab": "Smooth Dawnrok Slab",
+"block.geosmelt.dawnrok_bricks_slab": "Dawnrok Brick Slab"
+
+
+
+}

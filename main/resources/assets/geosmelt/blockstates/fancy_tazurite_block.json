@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y":  { "model": "geosmelt:block/fancy_tazurite_block" },
+        "axis=z":   { "model": "geosmelt:block/fancy_tazurite_block", "x": 90 },
+        "axis=x":   { "model": "geosmelt:block/fancy_tazurite_block", "x": 90, "y": 90 }
+    }
+}

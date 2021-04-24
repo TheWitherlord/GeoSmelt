@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+        "item": "geosmelt:xenoksmit_chestplate"
+    },
+    "addition": {
+        "item": "geosmelt:starcilium_ingot"
+    },
+    "result": {
+        "item": "geosmelt:starcilium_chestplate"
+    }
+}

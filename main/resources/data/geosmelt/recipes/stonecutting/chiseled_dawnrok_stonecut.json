@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "geosmelt:smooth_dawnrok"
+    },
+    "result": "geosmelt:chiseled_dawnrok",
+    "count": 1
+}

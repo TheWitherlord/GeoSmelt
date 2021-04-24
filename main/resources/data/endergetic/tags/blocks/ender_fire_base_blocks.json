@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "geosmelt:dragonscorch",
+    "geosmelt:smooth_dragonscorch",
+    "geosmelt:dragonscorch_bricks",
+    "geosmelt:duskrok",
+    "geosmelt:duskrok_bricks",
+    "geosmelt:smooth_duskrok",
+    "geosmelt:chiseled_duskrok",
+    "geosmelt:duskrok_pillar"
+  ]
+}

@@ -1,0 +1,14 @@
+﻿{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#"
+    ],
+    "key": {
+        "#": {
+            "item": "geosmelt:terranite_block"
+        }
+    },
+    "result": {
+        "item": "geosmelt:terranite_chunk",
+        "count": 9    }
+}

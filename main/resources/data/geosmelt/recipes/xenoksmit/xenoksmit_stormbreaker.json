@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "xxi",
+        "xnx",
+        "/  "
+    ],
+    "key": {
+        "x": {
+            "item": "geosmelt:xenoksmit_ingot"
+        },
+        "i": {
+            "item": "minecraft:iron_ingot"
+        },
+        "n": {
+            "item": "geosmelt:infinity_plate"
+        },
+        "/": {
+            "item": "geosmelt:starcilium_rod"
+        }
+    },
+    "result": {
+        "item": "geosmelt:xenoksmit_stormbreaker",
+        "count": 1
+    }
+}

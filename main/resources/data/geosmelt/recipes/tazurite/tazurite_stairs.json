@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "  #",
+        " ##",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "geosmelt:tazurite_block"
+        }
+    },
+    "result": {
+        "item": "geosmelt:tazurite_stairs",
+        "count": 4
+    }
+}

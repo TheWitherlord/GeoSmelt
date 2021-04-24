@@ -1,0 +1,19 @@
+{
+  "variants": {
+	"facing=north": {
+	  "model": "geosmelt:block/starcilium_face_block"
+	},
+	"facing=south": {
+	  "model": "geosmelt:block/starcilium_face_block",
+	  "y": 180
+	},
+	"facing=west": {
+	  "model": "geosmelt:block/starcilium_face_block",
+	  "y": 270
+	},
+	"facing=east": {
+	  "model": "geosmelt:block/starcilium_face_block",
+	  "y": 90
+	}
+  }
+}

@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y":  { "model": "geosmelt:block/tazurite_pillar_cap" },
+        "axis=z":   { "model": "geosmelt:block/tazurite_pillar_cap", "x": 90 },
+        "axis=x":   { "model": "geosmelt:block/tazurite_pillar_cap", "x": 90, "y": 90 }
+    }
+}

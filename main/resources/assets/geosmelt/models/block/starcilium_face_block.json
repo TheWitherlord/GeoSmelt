@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "side": "geosmelt:blocks/starcilium_block",
+    "front": "geosmelt:blocks/starcilium_face",
+    "top": "geosmelt:blocks/starcilium_block"
+  }
+}

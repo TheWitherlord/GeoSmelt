@@ -1,0 +1,32 @@
+{
+    "display": {
+        "title": {
+            "text": "A Darker Matter",
+            "color": "white"
+        },
+        "description": {
+            "text": "Mine Duskrok near the bottom of an End Island",
+            "color": "green"
+        },
+        "icon": {
+            "item": "geosmelt:duskrok"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+ "parent": "geosmelt:geosmelt/celestial_tungsten",
+    "criteria": {
+        "c1": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "geosmelt:rough_duskrok"
+                    }
+                ]
+            }
+        }
+    }
+}

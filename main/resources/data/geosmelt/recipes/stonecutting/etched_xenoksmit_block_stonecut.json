@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "geosmelt:xenoksmit_block"
+    },
+    "result": "geosmelt:etched_xenoksmit_block",
+    "count": 1
+}

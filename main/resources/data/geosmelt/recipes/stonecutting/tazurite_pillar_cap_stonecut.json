@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "geosmelt:smooth_tazurite_block"
+    },
+    "result": "geosmelt:tazurite_pillar_cap",
+    "count": 1
+}

@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#g",
+        "/#"
+    ],
+    "key": {
+        "#": {
+            "item": "geosmelt:infinity_shard"
+        },
+        "g": {
+            "item": "minecraft:blaze_rod"
+        },
+        "/": {
+            "item": "minecraft:writable_book"
+        }
+    },
+    "result": {
+		"item": "geosmelt:lesser_fire_tome",
+		"count": 1
+	}
+}

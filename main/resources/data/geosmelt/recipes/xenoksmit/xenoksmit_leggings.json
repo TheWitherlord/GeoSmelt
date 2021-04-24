@@ -1,0 +1,17 @@
+﻿{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "# #",
+        "# #"
+    ],
+    "key": {
+        "#": {
+            "item": "geosmelt:xenoksmit_ingot"
+        }
+    },
+    "result": {
+        "item": "geosmelt:xenoksmit_leggings",
+        "count": 1
+    }
+}

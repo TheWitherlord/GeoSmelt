@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#g",
+        "/#"
+    ],
+    "key": {
+        "#": {
+            "item": "geosmelt:infinity_shard"
+        },
+        "g": {
+            "item": "geosmelt:mithril_ingot"
+        },
+        "/": {
+            "item": "minecraft:writable_book"
+        }
+    },
+    "result": {
+		"item": "geosmelt:lesser_ice_tome",
+		"count": 1
+	}
+}

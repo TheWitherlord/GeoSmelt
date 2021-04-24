@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#g",
+        "/#"
+    ],
+    "key": {
+        "#": {
+            "item": "geosmelt:infinity_shard"
+        },
+        "g": {
+            "item": "minecraft:wither_rose"
+        },
+        "/": {
+            "item": "minecraft:writable_book"
+        }
+    },
+    "result": {
+		"item": "geosmelt:lesser_wither_tome",
+		"count": 1
+	}
+}

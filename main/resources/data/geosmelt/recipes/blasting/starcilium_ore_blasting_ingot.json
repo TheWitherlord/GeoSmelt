@@ -1,0 +1,9 @@
+{
+	"type": "minecraft:blasting",
+	"ingredient": {
+		"item": "geosmelt:starcilium_ore"
+	},
+	"result": "geosmelt:starcilium_ingot",
+	"experience": 1.9,
+	"cookingtime": 200
+}

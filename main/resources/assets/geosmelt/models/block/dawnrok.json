@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "geosmelt:blocks/dawnrok_top",
+    "side": "geosmelt:blocks/dawnrok_side"
+  }
+}

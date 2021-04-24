@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ixi",
+        "DnD",
+        "ixi"
+    ],
+    "key": {
+        "i": {
+            "item": "geosmelt:starcilium_ingot"
+        },
+        "D": {
+            "item": "geosmelt:tazurite"
+        },
+         "x": {
+            "item": "geosmelt:xenoksmit_ingot"
+        },
+        "n": {
+            "item": "geosmelt:mithril_ingot"
+        }
+    },
+    "result": {
+        "item": "geosmelt:starcilium_face_block",
+        "count": 1
+    }
+}

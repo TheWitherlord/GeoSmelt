@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "geosmelt:starcilium_ingot",
+    "geosmelt:xenoksmit_ingot",
+    "geosmelt:copper_scrap",
+    "geosmelt:eaglesteel_ingot",
+    "geosmelt:mithril_ingot"
+  ]
+}

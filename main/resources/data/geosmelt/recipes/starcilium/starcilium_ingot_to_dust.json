@@ -1,0 +1,14 @@
+﻿{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#"
+    ],
+    "key": {
+        "#": {
+            "item": "geosmelt:starcilium_ingot"
+        }
+    },
+    "result": {
+        "item": "geosmelt:starcilium_dust",
+        "count": 1    }
+}

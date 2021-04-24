@@ -1,0 +1,26 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		" X ",
+		"BXE",
+		" S "
+	],
+	"key": {
+		"X": {
+			"item": "geosmelt:xenoksmit_ingot"
+		},
+		"E": {
+			"item": "geosmelt:aquaslash"
+		},
+		"B": {
+			"item": "geosmelt:banana_blade"
+		},
+		"S": {
+			"item": "geosmelt:starcilium_sword"
+		}
+	},
+	"result": {
+		"item": "geosmelt:galaxius",
+		"count": 1
+	}
+}

@@ -1,0 +1,32 @@
+{
+    "display": {
+        "title": {
+            "text": "Soaring Like A Eagle",
+            "color": "gold"
+        },
+        "description": {
+            "text": "Obtain a Eaglesteel Ingot",
+            "color": "green"
+        },
+        "icon": {
+            "item": "geosmelt:eaglesteel_ingot"
+        },
+        "frame": "goal",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "parent": "geosmelt:geosmelt/skeleton_sentinel",
+    "criteria": {
+        "c1": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "geosmelt:eaglesteel_ingot"
+                    }
+                ]
+            }
+        }
+    }
+}

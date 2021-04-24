@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "side": "geosmelt:blocks/etched_xenoksmit_block",
+    "front": "geosmelt:blocks/etched_xenoksmit_block",
+    "top": "geosmelt:blocks/etched_xenoksmit_block"
+  }
+}

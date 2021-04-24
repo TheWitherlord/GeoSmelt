@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "geosmelt:dragonscorch_bricks"
+    },
+    "result": "geosmelt:dragonscorch_bricks_slab",
+    "count": 1
+}

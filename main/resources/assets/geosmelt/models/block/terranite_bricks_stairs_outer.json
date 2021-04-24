@@ -1,0 +1,15 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "geosmelt:blocks/terranite_bricks",
+    "top": "geosmelt:blocks/terranite_bricks",
+    "side": "geosmelt:blocks/terranite_bricks"
+  }
+}
+
+
+
+
+
+
+

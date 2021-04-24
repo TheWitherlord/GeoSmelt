@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "geosmelt:tazurite_bricks"
+    },
+    "result": "geosmelt:tazurite_bricks_slab",
+    "count": 2
+}

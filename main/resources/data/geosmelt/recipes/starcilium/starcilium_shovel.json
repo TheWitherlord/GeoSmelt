@@ -1,0 +1,19 @@
+{
+  "result": {
+    "item": "geosmelt:starcilium_shovel"
+  },
+  "pattern": [
+    " X ",
+    " Y ",
+    " Y "
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "geosmelt:starcilium_ingot"
+    },
+    "Y": {
+      "item": "minecraft:iron_ingot"
+    }
+  }
+}

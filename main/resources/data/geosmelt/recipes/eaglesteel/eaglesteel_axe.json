@@ -1,0 +1,19 @@
+{
+  "result": {
+    "item": "geosmelt:eaglesteel_axe"
+  },
+  "pattern": [
+    "XX ",
+    "XY ",
+    " Y "
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "tag": "forge:ingots/eaglesteel"
+    },
+    "Y": {
+      "item": "minecraft:stick"
+    }
+  }
+}

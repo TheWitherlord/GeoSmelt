@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "type=bottom": {
+            "model": "geosmelt:block/dragonscorch_bricks_slab"
+        },
+        "type=double": {
+            "model": "geosmelt:block/dragonscorch_bricks"
+        },
+        "type=top": {
+            "model": "geosmelt:block/dragonscorch_bricks_slab_top"
+        }
+    }
+}

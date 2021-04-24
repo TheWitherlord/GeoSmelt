@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "geosmelt:duskrok_bricks_stairs",
+    "geosmelt:smooth_duskrok_stairs",
+    "geosmelt:dawnrok_bricks_stairs",
+    "geosmelt:smooth_dawnrok_stairs"
+  ]
+}

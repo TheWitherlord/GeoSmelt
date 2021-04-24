@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "type=bottom": {
+            "model": "geosmelt:block/terranite_bricks_slab"
+        },
+        "type=double": {
+            "model": "geosmelt:block/terranite_bricks"
+        },
+        "type=top": {
+            "model": "geosmelt:block/terranite_bricks_slab_top"
+        }
+    }
+}

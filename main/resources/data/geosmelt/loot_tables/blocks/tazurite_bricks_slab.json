@@ -1,0 +1,33 @@
+{
+	"type": "minecraft:block",
+	"pools": [
+		{
+			"name": "geosmelt:tazurite_bricks_slab",
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"conditions": [
+								{
+									"condition": "minecraft:block_state_property",
+									"block": "geosmelt:tazurite_bricks_slab",
+									"properties": {
+										"type": "double"
+									}
+								}
+							],
+							"count": 2
+						},
+						{
+							"function": "minecraft:explosion_decay"
+						}
+					],
+					"name": "geosmelt:tazurite_bricks_slab"
+				}
+			]
+		}
+	]
+}

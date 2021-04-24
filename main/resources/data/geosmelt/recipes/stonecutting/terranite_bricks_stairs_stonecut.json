@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "geosmelt:terranite_bricks"
+    },
+    "result": "geosmelt:terranite_bricks_stairs",
+    "count": 1
+}

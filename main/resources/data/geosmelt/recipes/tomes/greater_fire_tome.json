@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#g",
+        "/#"
+    ],
+    "key": {
+        "#": {
+            "item": "geosmelt:infinity_plate"
+        },
+        "g": {
+            "item": "geosmelt:xenoksmit_ingot"
+        },
+        "/": {
+            "item": "geosmelt:lesser_fire_tome"
+        }
+    },
+    "result": {
+		"item": "geosmelt:greater_fire_tome",
+		"count": 1
+	}
+}

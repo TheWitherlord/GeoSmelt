@@ -1,0 +1,9 @@
+{
+	"type": "minecraft:smelting",
+	"ingredient": {
+		"item": "geosmelt:mithril_dust"
+	},
+	"result": "geosmelt:mithril_ingot",
+	"experience": 1.5,
+	"cookingtime": 200
+}

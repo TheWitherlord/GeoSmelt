@@ -1,0 +1,15 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "geosmelt:blocks/dragonscorch_bricks",
+    "top": "geosmelt:blocks/dragonscorch_bricks",
+    "side": "geosmelt:blocks/dragonscorch_bricks"
+  }
+}
+
+
+
+
+
+
+

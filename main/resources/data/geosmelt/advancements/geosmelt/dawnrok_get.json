@@ -1,0 +1,31 @@
+{
+    "display": {
+        "title": {
+            "text": "Radiant Matter",
+            "color": "white"
+        },
+        "description": {
+            "text": "Combine Duskrok with Glowstone Dust in a Smithing Table"
+        },
+        "icon": {
+            "item": "geosmelt:dawnrok"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+ "parent": "geosmelt:geosmelt/duskrok_get",
+    "criteria": {
+        "c1": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "geosmelt:dawnrok"
+                    }
+                ]
+            }
+        }
+    }
+}

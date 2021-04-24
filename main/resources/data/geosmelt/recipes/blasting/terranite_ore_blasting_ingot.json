@@ -1,0 +1,9 @@
+{
+	"type": "minecraft:blasting",
+	"ingredient": {
+		"item": "geosmelt:terranite"
+	},
+	"result": "geosmelt:terranite_chunk",
+	"experience": 1.3,
+	"cookingtime": 100
+}

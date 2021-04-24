@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "geosmelt:blocks/tazurite_block",
+    "side": "geosmelt:blocks/tazurite_pillar_cap"
+  }
+}

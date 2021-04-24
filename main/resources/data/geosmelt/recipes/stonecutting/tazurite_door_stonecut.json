@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "geosmelt:smooth_tazurite_block"
+    },
+    "result": "geosmelt:tazurite_door",
+    "count": 1
+}

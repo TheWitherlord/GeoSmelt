@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+        "item": "geosmelt:smooth_duskrok_stairs"
+    },
+    "addition": {
+        "item": "minecraft:glowstone_dust"
+    },
+    "result": {
+        "item": "geosmelt:smooth_dawnrok_stairs"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+        "item": "geosmelt:duskrok_bricks_stairs"
+    },
+    "addition": {
+        "item": "minecraft:glowstone_dust"
+    },
+    "result": {
+        "item": "geosmelt:dawnrok_bricks_stairs"
+    }
+}

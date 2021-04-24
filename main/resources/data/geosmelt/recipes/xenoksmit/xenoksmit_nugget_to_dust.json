@@ -1,0 +1,17 @@
+﻿{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "###",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "geosmelt:xenoksmit_nugget"
+        }
+    },
+    "result": {
+        "item": "geosmelt:xenoksmit_dust",
+        "count": 1
+    }
+}

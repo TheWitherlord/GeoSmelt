@@ -1,0 +1,15 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "geosmelt:blocks/smooth_tazurite_block",
+    "top": "geosmelt:blocks/smooth_tazurite_block",
+    "side": "geosmelt:blocks/smooth_tazurite_block"
+  }
+}
+
+
+
+
+
+
+

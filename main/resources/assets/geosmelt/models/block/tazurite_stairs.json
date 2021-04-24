@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "geosmelt:blocks/tazurite_block",
+    "top": "geosmelt:blocks/tazurite_block",
+    "side": "geosmelt:blocks/tazurite_block"
+  }
+}

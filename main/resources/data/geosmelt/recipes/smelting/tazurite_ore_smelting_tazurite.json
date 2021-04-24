@@ -1,0 +1,9 @@
+{
+	"type": "minecraft:smelting",
+	"ingredient": {
+		"item": "geosmelt:tazurite_ore"
+	},
+	"result": "geosmelt:tazurite",
+	"experience": 1.3,
+	"cookingtime": 200
+}
